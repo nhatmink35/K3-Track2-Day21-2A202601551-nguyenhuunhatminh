@@ -6,8 +6,11 @@ data/train_phase1.csv
 data/eval.csv
 data/train_phase2.csv
 sa-key.json
+*.pem
 .env
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
+.pytest_cache/
+.pytest_tmp/
